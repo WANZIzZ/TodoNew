@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#e0e0e0</color>
+    <color name="colorAccent">#009688</color>
+
+    <color name="bg_ac_splash">#27e4a4</color>
+</resources>

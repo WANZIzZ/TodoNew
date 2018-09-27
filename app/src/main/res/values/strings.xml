@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Todo-New</string>
+
+    <string name="ac_main_tv_nav_header_default">点击登录/注册</string>
+
+    <string name="ac_login_title">登录</string>
+    <string name="ac_login_et_user_hint">用户名</string>
+    <string name="ac_login_et_pwd_hint">密码</string>
+    <string name="ac_login_btn_login">登录</string>
+    <string name="ac_login_tv_remind_register">没有账号？点击注册</string>
+
+    <string name="ac_register_title">注册</string>
+    <string name="ac_register_et_user_hint">用户名</string>
+    <string name="ac_register_et_pwd_hint">密码</string>
+    <string name="ac_register_et_verify_pwd_hint">确认密码</string>
+    <string name="ac_register_btn_register">注册</string>
+
+    <string name="toast_remind_login">请先登录</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
